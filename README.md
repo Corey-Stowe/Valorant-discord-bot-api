@@ -4,11 +4,14 @@ This repository for competitive data by using player tag (public only)
 #How to use temple
 
 Simply if you want to use slash command temple you can install it in your own
+OR if you want test you can invite my bot: https://discord.com/oauth2/authorize?client_id=863787271504396318&permissions=277083450689&scope=bot%20applications.commands
 
 #How to use API
 
 Our api ends point is: https://api.stoweteam.dev
 API request list
+
+
 |  Method |  Query | Detals  |
 | :------------ | :------------ | :------------ |
 |  `GET`  | /profile/global/<username>?number=<tagid>  |  Check global profile |
